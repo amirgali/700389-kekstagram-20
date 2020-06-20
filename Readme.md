@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Самрат Байхонов](https://up.htmlacademy.ru/javascript/20/user/700389).
-* Наставник: [отсутствует].
+* Наставник: Samrat.
 
 ---
 
